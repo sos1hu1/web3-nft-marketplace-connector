@@ -1,0 +1,21 @@
+{
+  "name": "web3-nft-marketplace-connector",
+  "version": "1.0.1",
+  "description": "Connects the NFT chatbot and intelligence service with NFT marketplaces.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sos1hu1/web3-nft-marketplace-connector"
+  },
+  "author": "sos1hu1",
+  "license": "MIT",
+  "dependencies": {
+    "nft-chatbot-framework": "1.0.0",
+    "nft-intelligence-service": "1.0.0",
+    "web3": "^1.3.5",
+    "axios": "^0.21.1"
+  }
+}
